@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @EvidenceM290
+- 👋 Hi, I’m @Evidence Madhume
 - 👀 I’m interested in driving innovation in financial services and insurance using data analytics to provide business insights
-- 🌱 I’m currently learning pursuing my masters in business analytics
+- 🌱 I’m currently pursuing my masters in business analytics
 - 💞️ I’m looking to collaborate on data driven insights as well as actuarial insights
 - 📫 How to reach me linkedin l provided my linkedin profile
 - 😄 Pronouns: Him/his
