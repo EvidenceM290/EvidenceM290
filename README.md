@@ -24,10 +24,10 @@ I’m passionate about leveraging **data analytics, risk modeling, and actuarial
 ### 📊 **Risk Analytics & Predictive Modeling**  
 - **[Naïve Bayes Classification for Bank Marketing Risk](https://github.com/EvidenceM290/-Bank-Marketing-Risk-Analysis)** – Built a model to predict customer subscription likelihood, optimizing financial product marketing.  
 - **[Logistic Regression & CART for Credit Risk](your-github-link)** – Developed a model to classify loan default probability, improving lending risk assessment.  
-- **[kNN & k-Means Clustering for Loan Default](your-github-link)** – Segmented 30,000 bank customers to detect high-risk profiles for better credit policies.  
+- **[kNN & k-Means Clustering for Loan Default](https://github.com/EvidenceM290/Credit-Default-Prediction-Customer-Segmentation)** – Segmented 30,000 bank customers to detect high-risk profiles for better credit policies.  
 
 ### 📈 **Business & Actuarial Analytics**  
-- **[Graduate Admissions Modeling](your-github-link)** – Used logistic regression & decision trees to predict admission probability based on GRE, GPA, and school ranking.  
+- **[Graduate Admissions Modeling](https://github.com/EvidenceM290/Graduate-Admissions-Prediction-Model)** – Used logistic regression & decision trees to predict admission probability based on GRE, GPA, and school ranking.  
 - **[Funeral Product Pricing Model](https://github.com/EvidenceM290/Funeral-Product-Development-and-Pricing)** – Developed an **Excel-based actuarial pricing model** with VBA automation for a funeral cash product.  
 - **[TripAdvisor Hotel Analytics](https://github.com/EvidenceM290/TripAdvisor-Hotel-Analytics-Using-Python)** – Conducted market analysis using **Python**, identifying key factors influencing hotel ratings and bookings.  
 - **[Customer Behavior Analytics](https://github.com/EvidenceM290/Customer-Behavior-Analytics-Using-R)** – Performed **RFM segmentation** in R to optimize marketing strategies based on purchase behavior.  
