@@ -1,7 +1,4 @@
-I'll draft a professional and engaging GitHub profile README that aligns with your expertise in **risk analytics, business analysis, and actuarial science** while ensuring it sounds human and reflects your work. Here's the updated profile:  
-
 ---
-
 ## **👋 Hi, I'm Evidence Madhume**  
 🚀 **Business Analyst | Risk & Actuarial Professional | Data-Driven Innovator**  
 
@@ -9,13 +6,12 @@ I’m passionate about leveraging **data analytics, risk modeling, and actuarial
 
 💡 **My interests include:**  
 - **Risk Analytics & Actuarial Science** – Predictive modeling, credit risk assessment, and financial forecasting.  
-- **Business Intelligence** – Data visualization, storytelling, and strategic decision-making.  
+- **Business Intelligence** – Data Pipelines (ETL), Azure Data Factory, Microsoft Fibric, Data visualization, storytelling, and strategic decision-making.  
 - **Machine Learning & Data Mining** – Exploring AI-powered solutions in financial modeling and risk management.  
 
 📫 **How to reach me:** Connect with me on [LinkedIn](https://www.linkedin.com/in/evidence-madhume-874540204/)  
 
 ---  
-
 ## 🔥 **Technical Skills**  
 💻 Python | R | SQL | KNIME | Alteryx | Power BI | Tableau | Excel VBA | STATA  
 📊 Predictive Modeling | Risk Assessment | Data Mining | Business Intelligence | Fraud Detection  
@@ -32,13 +28,13 @@ I’m passionate about leveraging **data analytics, risk modeling, and actuarial
 
 ### 📈 **Business & Actuarial Analytics**  
 - **[Graduate Admissions Modeling](your-github-link)** – Used logistic regression & decision trees to predict admission probability based on GRE, GPA, and school ranking.  
-- **[Funeral Product Pricing Model](your-github-link)** – Developed an **Excel-based actuarial pricing model** with VBA automation for a funeral cash product.  
-- **[TripAdvisor Hotel Analytics](your-github-link)** – Conducted market analysis using **Python**, identifying key factors influencing hotel ratings and bookings.  
-- **[Customer Behavior Analytics](your-github-link)** – Performed **RFM segmentation** in R to optimize marketing strategies based on purchase behavior.  
+- **[Funeral Product Pricing Model](https://github.com/EvidenceM290/Funeral-Product-Development-and-Pricing)** – Developed an **Excel-based actuarial pricing model** with VBA automation for a funeral cash product.  
+- **[TripAdvisor Hotel Analytics](https://github.com/EvidenceM290/TripAdvisor-Hotel-Analytics-Using-Python)** – Conducted market analysis using **Python**, identifying key factors influencing hotel ratings and bookings.  
+- **[Customer Behavior Analytics](https://github.com/EvidenceM290/Customer-Behavior-Analytics-Using-R)** – Performed **RFM segmentation** in R to optimize marketing strategies based on purchase behavior.  
 
 ### 💡 **AI & NLP Applications**  
 - **[Sentiment Analysis for Airline Brand Health](your-github-link)** – Conducted sentiment analysis on **Southwest vs. American Airlines** using NLP to assess brand perception.  
-- **[eBay Collectibles Pricing App](your-github-link)** – Built an **R Shiny app** integrating **LangChain & OpenAI’s GPT-4** for automated market insights and trading decisions.  
+- **[eBay Collectibles Pricing App](https://github.com/EvidenceM290/eBAY-Collectibles-R-Shiny-App)** – Built an **R Shiny app** integrating **LangChain & OpenAI’s GPT-4** for automated market insights and trading decisions.  
 
 ---
 
@@ -52,13 +48,8 @@ I’m passionate about leveraging **data analytics, risk modeling, and actuarial
 
 📌 **Let’s Connect!** If you're into **data, finance, or AI-driven business strategies**, reach out!  
 
-[🔗 **LinkedIn**](your-linkedin-url) | [📂 **GitHub Portfolio**](your-github-link)  
+[🔗 **LinkedIn**](https://www.linkedin.com/in/evidence-madhume-874540204/) | 
 
 ---
 
-### 🔧 **Next Steps**
-- Upload well-documented project files in each repository (Jupyter Notebooks, RMarkdown, KNIME workflows).
-- Improve README files in individual repositories with clear **business problems, methods, and results**.
-- Add **visuals** (graphs, dashboards, workflow screenshots) to make projects more engaging.
-  
-Would you like me to draft README templates for your key projects? 🚀
+
