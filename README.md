@@ -10,7 +10,7 @@ I’m passionate about leveraging **data analytics, risk modeling, and actuarial
 - **Business Intelligence** – Data visualization, storytelling, and strategic decision-making.  
 - **Machine Learning & Data Mining** – Exploring AI-powered solutions in financial modeling and risk management.  
 
-📫 **How to reach me:** Connect with me on [LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/evidence-madhume-874540204/))  
+📫 **How to reach me:** Connect with me on [LinkedIn]([https://www.linkedin.com/in/evidence-madhume-874540204/])  
 
 ---  
 
