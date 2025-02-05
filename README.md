@@ -1,3 +1,5 @@
+I'll draft a professional and engaging GitHub profile README that aligns with your expertise in **risk analytics, business analysis, and actuarial science** while ensuring it sounds human and reflects your work. Here's the updated profile:  
+
 ---
 
 ## **👋 Hi, I'm Evidence Madhume**  
@@ -10,7 +12,7 @@ I’m passionate about leveraging **data analytics, risk modeling, and actuarial
 - **Business Intelligence** – Data visualization, storytelling, and strategic decision-making.  
 - **Machine Learning & Data Mining** – Exploring AI-powered solutions in financial modeling and risk management.  
 
-📫 **How to reach me:** Connect with me on [LinkedIn]([https://www.linkedin.com/in/evidence-madhume-874540204/])  
+📫 **How to reach me:** Connect with me on [LinkedIn](https://www.linkedin.com/in/evidence-madhume-874540204/)  
 
 ---  
 
@@ -60,8 +62,3 @@ I’m passionate about leveraging **data analytics, risk modeling, and actuarial
 - Add **visuals** (graphs, dashboards, workflow screenshots) to make projects more engaging.
   
 Would you like me to draft README templates for your key projects? 🚀
-
-<!---
-EvidenceM290/EvidenceM290 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
