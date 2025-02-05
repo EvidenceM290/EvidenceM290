@@ -22,7 +22,7 @@ I’m passionate about leveraging **data analytics, risk modeling, and actuarial
 ## 📂 **Featured Projects**  
 
 ### 📊 **Risk Analytics & Predictive Modeling**  
-- **[Naïve Bayes Classification for Bank Marketing Risk](your-github-link)** – Built a model to predict customer subscription likelihood, optimizing financial product marketing.  
+- **[Naïve Bayes Classification for Bank Marketing Risk](https://github.com/EvidenceM290/-Bank-Marketing-Risk-Analysis)** – Built a model to predict customer subscription likelihood, optimizing financial product marketing.  
 - **[Logistic Regression & CART for Credit Risk](your-github-link)** – Developed a model to classify loan default probability, improving lending risk assessment.  
 - **[kNN & k-Means Clustering for Loan Default](your-github-link)** – Segmented 30,000 bank customers to detect high-risk profiles for better credit policies.  
 
