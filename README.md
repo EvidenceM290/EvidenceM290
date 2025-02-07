@@ -33,7 +33,7 @@ I’m passionate about leveraging **data analytics, risk modeling, and actuarial
 - **[Customer Behavior Analytics](https://github.com/EvidenceM290/Customer-Behavior-Analytics-Using-R)** – Performed **RFM segmentation** in R to optimize marketing strategies based on purchase behavior.  
 
 ### 💡 **AI & NLP Applications**  
-- **[Sentiment Analysis for Airline Brand Health](your-github-link)** – Conducted sentiment analysis on **Southwest vs. American Airlines** using NLP to assess brand perception.  
+- **[Sentiment Analysis for Airline Brand Health](https://github.com/EvidenceM290/Airline-Brand-Health---Sentiment-Analysis)** – Conducted sentiment analysis on **Southwest vs. American Airlines** using NLP to assess brand perception.  
 - **[eBay Collectibles Pricing App](https://github.com/EvidenceM290/eBAY-Collectibles-R-Shiny-App)** – Built an **R Shiny app** integrating **LangChain & OpenAI’s GPT-4** for automated market insights and trading decisions.  
 
 ---
