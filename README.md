@@ -2,7 +2,7 @@
 ## **👋 Hi, I'm Evidence Madhume**  
 🚀 **Business Analyst | Risk & Actuarial Professional | Data-Driven Innovator**  
 
-I’m passionate about leveraging **data analytics, risk modeling, and actuarial insights** to drive innovation in financial services, insurance, and business strategy. Currently, I'm pursuing my **Master's in Business Analytics at SMU**, where I apply advanced analytics techniques to solve real-world problems.  
+I’m passionate about leveraging **data analytics, risk modeling, and actuarial insights** to drive innovation in financial services, insurance, and business strategy. Currently, I hold a **Master's in Business Analytics from SMU**, where l applied advanced analytics techniques to solve real-world problems.  
 
 💡 **My interests include:**  
 - **Risk Analytics & Actuarial Science** – Predictive modeling, credit risk assessment, and financial forecasting.  
